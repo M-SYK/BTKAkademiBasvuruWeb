@@ -6,7 +6,7 @@ Bu proje, BTK Akademi eğitim programına başvuruların alındığı basit bir 
 
 ### 1. Başvuru Listesi Görüntüleme
 - Kullanıcılar, yapılan başvuruları bir liste halinde görebilirler.
-- Her başvuru; e-posta adresi, tam adı, başvuru tarihi ve seçilen kurs bilgilerini içerir.
+- Her başvuru; e-posta adresi, tam adı, başvuru tarihi ve seçilen kurs bilgilerini içerir. 
 
 ### 2. Başvuru Yapma
 - Kullanıcılar bir form aracılığıyla başvuru yapabilirler.
